@@ -1,0 +1,1192 @@
+[
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "bedrooms": 2,
+    "price": 21000000,
+    "address": "Andheri East, Mumbai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 2BHK apartment in the heart of Andheri East, Mumbai. This semi-furnished 1100 sq.ft. property is located just 5 minutes from the Metro Station and near Infinity Mall. It boasts amenities like a lift, balcony, covered parking, and 24/7 security. Ideal for families looking for a comfortable and convenient living space. Ready to move-in and Vastu compliant."
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "bedrooms": 1,
+    "price": 4500000,
+    "address": "Hinjewadi, Pune",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Cozy 1BHK apartment in Hinjewadi, Pune, perfect for young professionals or first-time buyers. This 650 sq.ft. apartment is semi-furnished and offers amenities like a lift, power backup, and dedicated parking. Located close to IT parks and shopping centers. A great investment opportunity."
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "bedrooms": 3,
+    "price": 35000000,
+    "address": "South Extension, Delhi",
+    "parking_available": true,
+    "sold_status": true,
+    "description": "Luxurious 3BHK apartment in the prestigious South Extension, Delhi. This fully furnished 2200 sq.ft. property offers top-of-the-line amenities, including a modular kitchen, designer bathrooms, and a private balcony. The complex features a swimming pool, gym, and 24/7 security. Sold."
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "bedrooms": 2,
+    "price": 12000000,
+    "address": "Indiranagar, Bangalore",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Modern 2BHK apartment in the vibrant Indiranagar, Bangalore. This semi-furnished 1000 sq.ft. apartment is located close to restaurants, shopping malls, and public transport. Amenities include a lift, covered parking, and security. Ideal for couples and small families."
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "bedrooms": 4,
+    "price": 28000000,
+    "address": "Gachibowli, Hyderabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Spacious 4BHK villa in Gachibowli, Hyderabad. This unfurnished 3000 sq.ft. property offers ample living space and a private garden. Located in a gated community with amenities like a clubhouse, swimming pool, and 24/7 security. Perfect for large families."
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "bedrooms": 2,
+    "price": 8500000,
+    "address": "Salt Lake City, Kolkata",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Well-maintained 2BHK apartment in Salt Lake City, Kolkata. This semi-furnished 950 sq.ft. property is located in a peaceful residential area with easy access to schools, hospitals, and shopping centers. Amenities include a lift, covered parking, and security."
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "bedrooms": 3,
+    "price": 17500000,
+    "address": "Adyar, Chennai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Elegant 3BHK apartment in Adyar, Chennai. This semi-furnished 1800 sq.ft. property offers a spacious living room, a modern kitchen, and a balcony with a view. The complex features a swimming pool, gym, and 24/7 security. Ideal for families looking for a comfortable and luxurious living space."
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "bedrooms": 2,
+    "price": 6800000,
+    "address": "Satellite, Ahmedabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Compact and well-designed 2BHK apartment in Satellite, Ahmedabad. This semi-furnished 850 sq.ft. property is located close to schools, hospitals, and shopping malls. Amenities include a lift, covered parking, and security. A good option for small families or working professionals."
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "bedrooms": 3,
+    "price": 14000000,
+    "address": "Malviya Nagar, Jaipur",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Spacious 3BHK apartment in Malviya Nagar, Jaipur. This semi-furnished 1600 sq.ft. property offers a comfortable living space with modern amenities. Located in a well-developed area with easy access to schools, hospitals, and shopping centers. Amenities include a lift, covered parking, and 24/7 security."
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "bedrooms": 2,
+    "price": 9200000,
+    "address": "Ernakulam, Kochi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Modern 2BHK apartment in Ernakulam, Kochi. This semi-furnished 1050 sq.ft. property offers a comfortable living space with a balcony. Located close to the city center and public transport. Amenities include a lift, covered parking, and security. Ideal for small families or working professionals."
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "bedrooms": 1,
+    "price": 17000000,
+    "address": "Bandra West, Mumbai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A stylish 1BHK apartment in the upscale Bandra West, Mumbai. This semi-furnished 800 sq.ft. property offers a modern living space with a sea view. Located close to restaurants, shopping malls, and the Bandra-Worli Sea Link. Amenities include a lift, covered parking, and 24/7 security. Ideal for young professionals or couples."
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "bedrooms": 3,
+    "price": 25000000,
+    "address": "Koregaon Park, Pune",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Luxurious 3BHK apartment in the posh Koregaon Park, Pune. This fully furnished 2000 sq.ft. property offers a spacious living room, a modern kitchen, and a balcony with a view. The complex features a swimming pool, gym, and 24/7 security. Ideal for families looking for a premium living experience."
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "bedrooms": 2,
+    "price": 11000000,
+    "address": "Dwarka, Delhi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Well-maintained 2BHK apartment in Dwarka, Delhi. This semi-furnished 900 sq.ft. property is located in a well-planned residential area with easy access to schools, hospitals, and shopping centers. Amenities include a lift, covered parking, and security. A good option for small families or working professionals."
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "bedrooms": 4,
+    "price": 32000000,
+    "address": "Jayanagar, Bangalore",
+    "parking_available": true,
+    "sold_status": true,
+    "description": "Spacious 4BHK house in Jayanagar, Bangalore. This unfurnished 3500 sq.ft. property offers ample living space and a private garden. Located in a peaceful residential area with easy access to schools and hospitals. Sold."
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "bedrooms": 1,
+    "price": 5800000,
+    "address": "Kondapur, Hyderabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Compact and modern 1BHK apartment in Kondapur, Hyderabad. This semi-furnished 700 sq.ft. property is located close to IT parks and shopping centers. Amenities include a lift, power backup, and dedicated parking. A great investment opportunity."
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "bedrooms": 3,
+    "price": 15500000,
+    "address": "New Town, Kolkata",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Spacious 3BHK apartment in New Town, Kolkata. This semi-furnished 1700 sq.ft. property offers a comfortable living space with modern amenities. Located in a rapidly developing area with good connectivity. Amenities include a lift, covered parking, and 24/7 security."
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "bedrooms": 2,
+    "price": 10500000,
+    "address": "Nungambakkam, Chennai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Well-maintained 2BHK apartment in Nungambakkam, Chennai. This semi-furnished 1000 sq.ft. property is located in a prime location with easy access to commercial establishments and public transport. Amenities include a lift, covered parking, and security."
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "bedrooms": 4,
+    "price": 22000000,
+    "address": "Prahlad Nagar, Ahmedabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Spacious 4BHK apartment in Prahlad Nagar, Ahmedabad. This unfurnished 2500 sq.ft. property offers ample living space and a private balcony. Located in a well-developed area with good connectivity. Amenities include a lift, covered parking, and 24/7 security."
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "bedrooms": 2,
+    "price": 7500000,
+    "address": "Vaishali Nagar, Jaipur",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Compact and well-designed 2BHK apartment in Vaishali Nagar, Jaipur. This semi-furnished 900 sq.ft. property is located close to schools, hospitals, and shopping malls. Amenities include a lift, covered parking, and security. A good option for small families or working professionals."
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "bedrooms": 3,
+    "price": 16000000,
+    "address": "Kakkanad, Kochi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "Spacious 3BHK apartment in Kakkanad, Kochi. This semi-furnished 1800 sq.ft. property offers a comfortable living space with modern amenities. Located close to IT parks and the Infopark. Amenities include a lift, covered parking, and 24/7 security."
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "bedrooms": 2,
+    "price": 23000000,
+    "address": "Worli, Mumbai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A luxurious 2BHK apartment in Worli, Mumbai with stunning sea views. This fully furnished 1200 sq.ft. property offers a modern living space with high-end finishes. Located close to business districts and entertainment hubs. Amenities include a lift, covered parking, a swimming pool, and 24/7 security. Ideal for those seeking a premium lifestyle."
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "bedrooms": 1,
+    "price": 5200000,
+    "address": "Wakad, Pune",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact and well-designed 1BHK apartment in Wakad, Pune. This semi-furnished 680 sq.ft. property is perfect for young professionals and first-time buyers. Located close to IT parks and Hinjewadi. Amenities include a lift, power backup, and dedicated parking. A great investment opportunity with good rental potential."
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "bedrooms": 3,
+    "price": 38000000,
+    "address": "Greater Kailash, Delhi",
+    "parking_available": true,
+    "sold_status": true,
+    "description": "A luxurious 3BHK apartment in the prestigious Greater Kailash, Delhi. This fully furnished 2300 sq.ft. property offers a spacious living room, a modern kitchen, and a private balcony. The complex features a swimming pool, gym, and 24/7 security. Sold."
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "bedrooms": 2,
+    "price": 13500000,
+    "address": "Koramangala, Bangalore",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A modern and stylish 2BHK apartment in the heart of Koramangala, Bangalore. This semi-furnished 1050 sq.ft. property is located close to restaurants, cafes, and shopping centers. Amenities include a lift, covered parking, and security. Ideal for young couples and professionals."
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "bedrooms": 4,
+    "price": 30000000,
+    "address": "Jubilee Hills, Hyderabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 4BHK villa in the upscale Jubilee Hills, Hyderabad. This unfurnished 3200 sq.ft. property offers ample living space, a private garden, and a swimming pool. Located in a gated community with top-notch amenities and 24/7 security. Perfect for large families seeking a luxurious lifestyle."
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "bedrooms": 2,
+    "price": 9000000,
+    "address": "Ballygunge, Kolkata",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in the posh Ballygunge area of Kolkata. This semi-furnished 1000 sq.ft. property is located in a peaceful residential area with easy access to schools, hospitals, and shopping centers. Amenities include a lift, covered parking, and security. Ideal for families looking for a comfortable and safe environment."
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "bedrooms": 3,
+    "price": 18500000,
+    "address": "Besant Nagar, Chennai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "An elegant 3BHK apartment in the serene Besant Nagar, Chennai, close to the beach. This semi-furnished 1900 sq.ft. property offers a spacious living room, a modern kitchen, and a balcony with a sea view. The complex features a swimming pool, gym, and 24/7 security. Ideal for families looking for a relaxed and luxurious living space."
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "bedrooms": 2,
+    "price": 7200000,
+    "address": "Thaltej, Ahmedabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact and well-designed 2BHK apartment in Thaltej, Ahmedabad. This semi-furnished 880 sq.ft. property is located close to SG Highway, offering excellent connectivity. Amenities include a lift, covered parking, and security. A good option for small families or working professionals seeking convenience."
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "bedrooms": 3,
+    "price": 15000000,
+    "address": "C Scheme, Jaipur",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 3BHK apartment in the prime location of C Scheme, Jaipur. This semi-furnished 1700 sq.ft. property offers a comfortable living space with modern amenities. Located in a well-developed area with easy access to commercial hubs and tourist attractions. Amenities include a lift, covered parking, and 24/7 security."
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "bedrooms": 2,
+    "price": 9800000,
+    "address": "Panampilly Nagar, Kochi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A modern 2BHK apartment in the upscale Panampilly Nagar, Kochi. This semi-furnished 1100 sq.ft. property offers a comfortable living space with a balcony and a view of the backwaters. Located close to the city center and major attractions. Amenities include a lift, covered parking, and security. Ideal for small families or working professionals seeking a premium location."
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "bedrooms": 4,
+    "price": 45000000,
+    "address": "Juhu, Mumbai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "An exquisite 4BHK apartment in the prestigious Juhu, Mumbai. This fully furnished 2800 sq.ft. property offers a luxurious living experience with stunning sea views and high-end finishes. Located close to Bollywood celebrities' residences and upscale amenities. Amenities include a lift, multiple covered parking spaces, a private terrace, a swimming pool, and 24/7 security. Ideal for those seeking the ultimate in luxury living."
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "bedrooms": 2,
+    "price": 18000000,
+    "address": "Baner, Pune",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A stylish and modern 2BHK apartment in the rapidly developing Baner, Pune. This semi-furnished 1150 sq.ft. property offers a contemporary living space with excellent connectivity to IT hubs and other parts of the city. Amenities include a lift, covered parking, and a well-equipped gym. Ideal for young professionals and families looking for a modern lifestyle."
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "bedrooms": 1,
+    "price": 6200000,
+    "address": "Rohini, Delhi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact and well-designed 1BHK apartment in Rohini, Delhi. This semi-furnished 750 sq.ft. property is ideal for first-time buyers and those seeking an affordable yet comfortable living space. Located in a well-planned residential area with good social infrastructure. Amenities include a lift, dedicated parking, and 24/7 security."
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "bedrooms": 3,
+    "price": 27000000,
+    "address": "Whitefield, Bangalore",
+    "parking_available": true,
+    "sold_status": true,
+    "description": "A spacious and well-appointed 3BHK apartment in the IT hub of Whitefield, Bangalore. This semi-furnished 2100 sq.ft. property offers a comfortable living space with modern amenities. Located close to major IT companies, international schools, and shopping malls. Amenities include a lift, covered parking, a swimming pool, and 24/7 security. Sold."
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "bedrooms": 2,
+    "price": 14500000,
+    "address": "Madhapur, Hyderabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A modern 2BHK apartment in the bustling Madhapur, Hyderabad, close to Hitech City. This semi-furnished 1200 sq.ft. property is ideal for IT professionals and those seeking a vibrant lifestyle. Amenities include a lift, covered parking, a gym, and 24/7 security."
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "bedrooms": 4,
+    "price": 28000000,
+    "address": "Alipore, Kolkata",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "An elegant and spacious 4BHK apartment in the prestigious Alipore, Kolkata. This unfurnished 3000 sq.ft. property offers a luxurious living experience with high ceilings and classic architecture. Located in a prime residential area with excellent connectivity. Amenities include a lift, multiple covered parking spaces, and 24/7 security. Ideal for large families seeking a refined living space."
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "bedrooms": 1,
+    "price": 7800000,
+    "address": "Anna Nagar, Chennai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A stylish and compact 1BHK apartment in the well-planned Anna Nagar, Chennai. This semi-furnished 850 sq.ft. property is perfect for single professionals and those seeking a comfortable and convenient living space. Located close to parks, shopping centers, and good schools. Amenities include a lift, dedicated parking, and 24/7 security."
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "bedrooms": 3,
+    "price": 16500000,
+    "address": "Bodakdev, Ahmedabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious and well-designed 3BHK apartment in the upscale Bodakdev, Ahmedabad. This semi-furnished 1800 sq.ft. property offers a comfortable living space with modern amenities. Located close to SG Highway and major commercial areas. Amenities include a lift, covered parking, a swimming pool, and 24/7 security. Ideal for families seeking a modern and convenient lifestyle."
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "bedrooms": 2,
+    "price": 8200000,
+    "address": "Tonk Road, Jaipur",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in the well-connected Tonk Road area of Jaipur. This semi-furnished 950 sq.ft. property offers a comfortable living space with easy access to the airport and other parts of the city. Amenities include a lift, covered parking, and 24/7 security. A good option for small families and working professionals."
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "bedrooms": 4,
+    "price": 35000000,
+    "address": "Marine Drive, Kochi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "An exclusive 4BHK apartment on Marine Drive, Kochi, offering breathtaking waterfront views. This fully furnished 2700 sq.ft. property boasts a luxurious living experience with high-end finishes and spacious balconies. Located in a prime location with easy access to commercial and entertainment hubs. Amenities include a lift, multiple covered parking spaces, a private terrace, a swimming pool, and 24/7 security. Ideal for those seeking a premium and luxurious lifestyle."
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "bedrooms": 1,
+    "price": 9500000,
+    "address": "Dadar, Mumbai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact and well-designed 1BHK apartment in the central location of Dadar, Mumbai. This semi-furnished 600 sq.ft. property is ideal for single professionals or couples looking for a convenient and well-connected living space. Close to major railway stations and shopping centers. Amenities include a lift, dedicated parking, and 24/7 security."
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "bedrooms": 3,
+    "price": 19500000,
+    "address": "Aundh, Pune",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious and modern 3BHK apartment in the upscale Aundh, Pune. This semi-furnished 1700 sq.ft. property offers a comfortable living space with contemporary design and good connectivity. Located close to schools, hospitals, and shopping malls. Amenities include a lift, covered parking, a gym, and 24/7 security. Ideal for families seeking a modern and convenient lifestyle."
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "bedrooms": 2,
+    "price": 12500000,
+    "address": "Saket, Delhi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in the well-established Saket, Delhi. This semi-furnished 1000 sq.ft. property offers a comfortable living space in a peaceful residential area with good social infrastructure. Amenities include a lift, covered parking, and 24/7 security. A good option for small families and working professionals."
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "bedrooms": 4,
+    "price": 40000000,
+    "address": "Sadashivanagar, Bangalore",
+    "parking_available": true,
+    "sold_status": true,
+    "description": "An elegant and spacious 4BHK house in the prestigious Sadashivanagar, Bangalore. This unfurnished 4000 sq.ft. property offers a luxurious living experience with ample space and a private garden. Located in a prime residential area with excellent connectivity and proximity to high-end amenities. Sold."
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "bedrooms": 1,
+    "price": 6800000,
+    "address": "Gachibowli, Hyderabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact and modern 1BHK apartment in the rapidly developing Gachibowli, Hyderabad. This semi-furnished 780 sq.ft. property is ideal for young professionals working in the nearby IT hub. Amenities include a lift, power backup, and dedicated parking. A great investment opportunity with high rental potential."
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "bedrooms": 3,
+    "price": 17000000,
+    "address": "Rajarhat, Kolkata",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 3BHK apartment in the developing Rajarhat area of Kolkata. This semi-furnished 1900 sq.ft. property offers a comfortable living space with modern amenities and good connectivity to the airport and IT sector. Amenities include a lift, covered parking, a swimming pool, and 24/7 security. Ideal for families looking for a modern and growing location."
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "bedrooms": 2,
+    "price": 11500000,
+    "address": "Mylapore, Chennai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in the cultural hub of Mylapore, Chennai. This semi-furnished 1050 sq.ft. property offers a comfortable living space with a blend of traditional and modern influences. Located close to temples, markets, and cultural centers. Amenities include a lift, covered parking, and 24/7 security. Ideal for those seeking a peaceful and culturally rich environment."
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "bedrooms": 4,
+    "price": 24000000,
+    "address": "Science City, Ahmedabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious and modern 4BHK apartment in the developing Science City area of Ahmedabad. This unfurnished 2600 sq.ft. property offers ample living space with contemporary design and good connectivity. Located close to educational institutions and recreational facilities. Amenities include a lift, multiple covered parking spaces, a gym, and 24/7 security. Ideal for large families seeking a modern and convenient lifestyle."
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "bedrooms": 2,
+    "price": 8800000,
+    "address": "Civil Lines, Jaipur",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in the prime Civil Lines area of Jaipur. This semi-furnished 1000 sq.ft. property offers a comfortable living space in a peaceful and well-established residential area. Located close to government offices and major city attractions. Amenities include a lift, covered parking, and 24/7 security. A good option for those seeking a central and secure location."
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "bedrooms": 3,
+    "price": 17500000,
+    "address": "Vyttila, Kochi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious and well-designed 3BHK apartment in the transportation hub of Vyttila, Kochi. This semi-furnished 1950 sq.ft. property offers a comfortable living space with excellent connectivity to all parts of the city. Located close to major highways and commercial centers. Amenities include a lift, covered parking, a swimming pool, and 24/7 security. Ideal for families seeking convenience and connectivity."
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "bedrooms": 2,
+    "price": 26000000,
+    "address": "Chembur, Mumbai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A modern 2BHK apartment in Chembur, Mumbai. This semi-furnished 1150 sq.ft. property is located in a well-connected area with easy access to Eastern Express Highway. Amenities include a lift, covered parking, and 24/7 security. Ideal for families seeking a convenient location."
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "bedrooms": 1,
+    "price": 5800000,
+    "address": "Pimple Saudagar, Pune",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact 1BHK apartment in Pimple Saudagar, Pune. This semi-furnished 720 sq.ft. property is perfect for young professionals or first-time buyers. Located close to schools and shopping centers. Amenities include a lift, power backup, and dedicated parking."
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "bedrooms": 3,
+    "price": 42000000,
+    "address": "Hauz Khas, Delhi",
+    "parking_available": true,
+    "sold_status": true,
+    "description": "A luxurious 3BHK apartment in Hauz Khas, Delhi. This fully furnished 2500 sq.ft. property offers a spacious living room, modern kitchen, and a balcony. The complex features a swimming pool, gym, and 24/7 security. Sold."
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "bedrooms": 2,
+    "price": 14000000,
+    "address": "HSR Layout, Bangalore",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A stylish 2BHK apartment in HSR Layout, Bangalore. This semi-furnished 1100 sq.ft. property is located close to IT parks and restaurants. Amenities include a lift, covered parking, and security. Ideal for couples and young professionals."
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "bedrooms": 4,
+    "price": 33000000,
+    "address": "Banjara Hills, Hyderabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 4BHK villa in Banjara Hills, Hyderabad. This unfurnished 3400 sq.ft. property offers ample living space and a private garden. Located in a gated community with a clubhouse, swimming pool, and 24/7 security. Perfect for large families."
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "bedrooms": 1,
+    "price": 5500000,
+    "address": "Dum Dum, Kolkata",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact 1BHK apartment in Dum Dum, Kolkata. This semi-furnished 650 sq.ft. property is ideal for single professionals. Located close to the airport. Amenities include a lift, dedicated parking, and 24/7 security."
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "bedrooms": 3,
+    "price": 20000000,
+    "address": "RA Puram, Chennai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "An elegant 3BHK apartment in RA Puram, Chennai. This semi-furnished 2000 sq.ft. property offers a spacious living room, modern kitchen, and balcony. The complex features a swimming pool, gym, and 24/7 security. Ideal for families."
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "bedrooms": 2,
+    "price": 7800000,
+    "address": "Navrangpura, Ahmedabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in Navrangpura, Ahmedabad. This semi-furnished 920 sq.ft. property is located in a central area with good connectivity. Amenities include a lift, covered parking, and security."
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "bedrooms": 4,
+    "price": 26000000,
+    "address": "Raja Park, Jaipur",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 4BHK apartment in Raja Park, Jaipur. This unfurnished 2800 sq.ft. property offers ample living space and a balcony. Located in a well-developed area. Amenities include a lift, covered parking, and 24/7 security."
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "bedrooms": 2,
+    "price": 10500000,
+    "address": "Kadavanthra, Kochi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A modern 2BHK apartment in Kadavanthra, Kochi. This semi-furnished 1150 sq.ft. property offers a comfortable living space with a balcony. Located close to the city center and public transport. Amenities include a lift, covered parking, and security."
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "bedrooms": 3,
+    "price": 32000000,
+    "address": "Powai, Mumbai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A luxurious 3BHK apartment in Powai, Mumbai. This semi-furnished 1600 sq.ft. property offers a lake view, modern amenities, and is located close to business hubs. Amenities include a lift, covered parking, a swimming pool, and 24/7 security. Ideal for families."
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "bedrooms": 2,
+    "price": 11000000,
+    "address": "Kharadi, Pune",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A stylish 2BHK apartment in Kharadi, Pune. This semi-furnished 1000 sq.ft. property is located near EON IT Park, offering convenience and modern living. Amenities include a lift, covered parking, and 24/7 security. Perfect for IT professionals and young families."
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "bedrooms": 1,
+    "price": 7200000,
+    "address": "Uttam Nagar, Delhi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact and efficient 1BHK apartment in Uttam Nagar, Delhi. This semi-furnished 700 sq.ft. property is ideal for first-time buyers or single professionals. Located in a well-connected area with access to public transport. Amenities include a lift, dedicated parking, and 24/7 security."
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "bedrooms": 4,
+    "price": 48000000,
+    "address": "Indiranagar, Bangalore",
+    "parking_available": true,
+    "sold_status": true,
+    "description": "An expansive 4BHK penthouse in Indiranagar, Bangalore. This fully furnished 3800 sq.ft. property features a private terrace, luxurious finishes, and panoramic city views. Located in a prime area with upscale amenities. Sold."
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "bedrooms": 3,
+    "price": 22000000,
+    "address": "Kukatpally, Hyderabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 3BHK apartment in Kukatpally, Hyderabad. This semi-furnished 1850 sq.ft. property offers modern living with good connectivity and essential amenities nearby. Amenities include a lift, covered parking, a children's play area, and 24/7 security. Ideal for families seeking a comfortable and convenient home."
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "bedrooms": 2,
+    "price": 12000000,
+    "address": "Tollygunge, Kolkata",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in Tollygunge, Kolkata. This semi-furnished 1100 sq.ft. property is located in a peaceful residential area with good connectivity and access to local markets. Amenities include a lift, covered parking, and 24/7 security. Ideal for small families or those seeking a calm living environment."
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "bedrooms": 1,
+    "price": 8500000,
+    "address": "T. Nagar, Chennai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A stylish 1BHK apartment in the commercial hub of T. Nagar, Chennai. This semi-furnished 900 sq.ft. property is perfect for single professionals or those who enjoy city life. Located close to shopping centers and business districts. Amenities include a lift, dedicated parking, and 24/7 security."
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "bedrooms": 3,
+    "price": 18000000,
+    "address": "Chandkheda, Ahmedabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 3BHK apartment in Chandkheda, Ahmedabad. This semi-furnished 1900 sq.ft. property offers a comfortable living space with modern amenities and good connectivity to Gandhinagar. Amenities include a lift, covered parking, and a well-equipped gym. Ideal for families looking for a modern and convenient lifestyle."
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "bedrooms": 2,
+    "price": 9200000,
+    "address": "Mansarovar, Jaipur",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in Mansarovar, Jaipur. This semi-furnished 1050 sq.ft. property offers a comfortable living space with easy access to schools, hospitals, and parks. Amenities include a lift, covered parking, and 24/7 security. A good option for small families and working professionals."
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "bedrooms": 4,
+    "price": 40000000,
+    "address": "Thevara, Kochi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "An exclusive 4BHK waterfront apartment in Thevara, Kochi. This fully furnished 3000 sq.ft. property offers stunning views, luxurious finishes, and a private balcony. Located in a prime area with access to backwater cruises. Amenities include a lift, multiple covered parking spaces, a private terrace, a swimming pool, and 24/7 security. Ideal for those seeking a premium and serene lifestyle."
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "bedrooms": 1,
+    "price": 10500000,
+    "address": "Ghatkopar, Mumbai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact and well-designed 1BHK apartment in Ghatkopar, Mumbai. This semi-furnished 650 sq.ft. property is ideal for single professionals or couples looking for a convenient and well-connected living space. Close to major railway stations and shopping centers. Amenities include a lift, dedicated parking, and 24/7 security."
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "bedrooms": 3,
+    "price": 21000000,
+    "address": "Shivajinagar, Pune",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious and modern 3BHK apartment in the central location of Shivajinagar, Pune. This semi-furnished 1800 sq.ft. property offers a comfortable living space with contemporary design and excellent connectivity. Located close to educational institutions and commercial hubs. Amenities include a lift, covered parking, a gym, and 24/7 security. Ideal for families seeking a modern and convenient lifestyle."
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "bedrooms": 2,
+    "price": 13500000,
+    "address": "Vasant Kunj, Delhi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in the upscale Vasant Kunj, Delhi. This semi-furnished 1050 sq.ft. property offers a comfortable living space in a peaceful residential area with good social infrastructure and green spaces. Amenities include a lift, covered parking, and 24/7 security. A good option for small families and working professionals seeking a serene environment."
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "bedrooms": 4,
+    "price": 45000000,
+    "address": "R.T. Nagar, Bangalore",
+    "parking_available": true,
+    "sold_status": true,
+    "description": "An elegant and spacious 4BHK house in the prestigious R.T. Nagar, Bangalore. This unfurnished 4200 sq.ft. property offers a luxurious living experience with ample space, a private garden, and modern amenities. Located in a prime residential area with excellent connectivity and proximity to high-end amenities. Sold."
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "bedrooms": 1,
+    "price": 7500000,
+    "address": "Manikonda, Hyderabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact and modern 1BHK apartment in the rapidly developing Manikonda, Hyderabad. This semi-furnished 820 sq.ft. property is ideal for young professionals working in the nearby IT hub and those seeking a modern lifestyle. Amenities include a lift, power backup, and dedicated parking. A great investment opportunity with high rental potential."
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "bedrooms": 3,
+    "price": 18500000,
+    "address": "Salt Lake, Kolkata",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 3BHK apartment in the well-planned Salt Lake area of Kolkata. This semi-furnished 2000 sq.ft. property offers a comfortable living space with modern amenities and good connectivity to the airport and IT sector. Amenities include a lift, covered parking, a swimming pool, and 24/7 security. Ideal for families looking for a modern and well-connected location."
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "bedrooms": 2,
+    "price": 12500000,
+    "address": "KK Nagar, Chennai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in the residential area of KK Nagar, Chennai. This semi-furnished 1100 sq.ft. property offers a comfortable living space with a blend of traditional and modern influences. Located close to schools, hospitals, and local markets. Amenities include a lift, covered parking, and 24/7 security. Ideal for those seeking a peaceful and family-friendly environment."
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "bedrooms": 4,
+    "price": 27000000,
+    "address": "Ambawadi, Ahmedabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious and modern 4BHK apartment in the upscale Ambawadi, Ahmedabad. This unfurnished 2900 sq.ft. property offers ample living space with contemporary design and excellent connectivity. Located close to commercial areas and educational institutions. Amenities include a lift, multiple covered parking spaces, a gym, and 24/7 security. Ideal for large families seeking a luxurious and convenient lifestyle."
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "bedrooms": 2,
+    "price": 9500000,
+    "address": "Shyam Nagar, Jaipur",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in the residential area of Shyam Nagar, Jaipur. This semi-furnished 1080 sq.ft. property offers a comfortable living space in a peaceful and well-established neighborhood. Located close to parks, shopping centers, and good schools. Amenities include a lift, covered parking, and 24/7 security. A good option for those seeking a safe and family-oriented location."
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "bedrooms": 3,
+    "price": 19000000,
+    "address": "Edappally, Kochi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious and well-designed 3BHK apartment in the commercial hub of Edappally, Kochi. This semi-furnished 2050 sq.ft. property offers a comfortable living space with excellent connectivity to all parts of the city. Located close to major shopping malls and hospitals. Amenities include a lift,covered parking, a swimming pool, and 24/7 security. Ideal for families seeking convenience and a vibrant lifestyle."
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "bedrooms": 2,
+    "price": 28000000,
+    "address": "Andheri West, Mumbai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A modern 2BHK apartment in Andheri West, Mumbai. This semi-furnished 1250 sq.ft. property is located in a vibrant area with easy access to entertainment hubs and commercial centers. Amenities include a lift, covered parking, and 24/7 security. Ideal for young professionals and families seeking a lively neighborhood."
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "bedrooms": 1,
+    "price": 6500000,
+    "address": "Wagholi, Pune",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact 1BHK apartment in Wagholi, Pune. This semi-furnished 750 sq.ft. property is perfect for young professionals or first-time buyers looking for a modern and affordable home. Located in a developing area with good connectivity. Amenities include a lift, power backup, and dedicated parking."
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "bedrooms": 3,
+    "price": 45000000,
+    "address": "Defence Colony, Delhi",
+    "parking_available": true,
+    "sold_status": true,
+    "description": "A luxurious 3BHK apartment in Defence Colony, Delhi. This fully furnished 2700 sq.ft. property offers a spacious living room, modern kitchen, and a private balcony. The complex features a swimming pool, gym, and 24/7 security. Sold."
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "bedrooms": 2,
+    "price": 15500000,
+    "address": "Jayanagar, Bangalore",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A stylish 2BHK apartment in Jayanagar, Bangalore. This semi-furnished 1150 sq.ft. property is located in a well-established residential area with easy access to schools and hospitals. Amenities include a lift, covered parking, and security. Ideal for families seeking a peaceful and convenient location."
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "bedrooms": 4,
+    "price": 36000000,
+    "address": "Gachibowli, Hyderabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 4BHK villa in Gachibowli, Hyderabad. This unfurnished 3700 sq.ft. property offers ample living space, a private garden, and modern amenities. Located in a gated community with a clubhouse, swimming pool, and 24/7 security. Perfect for large families seeking a luxurious lifestyle."
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "bedrooms": 1,
+    "price": 6200000,
+    "address": "Behala, Kolkata",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact 1BHK apartment in Behala, Kolkata. This semi-furnished 700 sq.ft. property is ideal for single professionals or couples looking for an affordable and well-connected home. Located close to local markets and public transport. Amenities include a lift, dedicated parking, and 24/7 security."
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "bedrooms": 3,
+    "price": 21500000,
+    "address": "Anna Nagar, Chennai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "An elegant 3BHK apartment in Anna Nagar, Chennai. This semi-furnished 2100 sq.ft. property offers a spacious living room, modern kitchen, and a balcony with a view. The complex features a swimming pool, gym, and 24/7 security. Ideal for families seeking a comfortable and luxurious living space."
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "bedrooms": 2,
+    "price": 8500000,
+    "address": "Vastrapur, Ahmedabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in Vastrapur, Ahmedabad. This semi-furnished 950 sq.ft. property is located close to IIM-Ahmedabad and other educational institutions. Amenities include a lift, covered parking, and security. Ideal for small families or working professionals seeking a convenient location."
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "bedrooms": 4,
+    "price": 28000000,
+    "address": "Malviya Nagar, Jaipur",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 4BHK apartment in Malviya Nagar, Jaipur. This unfurnished 3000 sq.ft. property offers ample living space and a balcony with a garden view. Located in a well-developed area with easy access to shopping centers and hospitals. Amenities include a lift, covered parking, and 24/7 security. Ideal for large families seeking a comfortable and convenient lifestyle."
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "bedrooms": 2,
+    "price": 11000000,
+    "address": "Palarivattom, Kochi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A modern 2BHK apartment in Palarivattom, Kochi. This semi-furnished 1200 sq.ft. property offers a comfortable living space with a balcony and good connectivity to the metro station. Amenities include a lift, covered parking, and security. Ideal for small families or working professionals seeking a convenient and well-connected location."
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "bedrooms": 3,
+    "price": 35000000,
+    "address": "Kandivali, Mumbai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious and modern 3BHK apartment in Kandivali, Mumbai. This semi-furnished 1700 sq.ft. property offers a comfortable living space with good connectivity and essential amenities nearby. Amenities include a lift, covered parking, a children's play area, and 24/7 security. Ideal for families seeking a convenient and well-connected home."
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "bedrooms": 2,
+    "price": 12500000,
+    "address": "Hadapsar, Pune",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in Hadapsar, Pune. This semi-furnished 1050 sq.ft. property is located in a developing area with good connectivity to IT parks and industrial areas. Amenities include a lift, covered parking, and 24/7 security. Ideal for young professionals and small families."
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "bedrooms": 1,
+    "price": 7800000,
+    "address": "Janakpuri, Delhi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact and efficient 1BHK apartment in Janakpuri, Delhi. This semi-furnished 750 sq.ft. property is ideal for first-time buyers or single professionals seeking an affordable and well-connected home. Located close to shopping centers and public transport. Amenities include a lift, dedicated parking, and 24/7 security."
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "bedrooms": 4,
+    "price": 52000000,
+    "address": "Malleshwaram, Bangalore",
+    "parking_available": true,
+    "sold_status": true,
+    "description": "An elegant and spacious 4BHK house in the prestigious Malleshwaram, Bangalore. This unfurnished 4500 sq.ft. property offers a luxurious living experience with ample space, a private garden, and modern amenities. Located in a prime residential area with excellent connectivity and proximity to high-end amenities. Sold."
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "bedrooms": 3,
+    "price": 24000000,
+    "address": "Kondapur, Hyderabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 3BHK apartment in Kondapur, Hyderabad. This semi-furnished 1900 sq.ft. property offers modern living with good connectivity and essential amenities nearby. Amenities include a lift, covered parking, a children's play area, and 24/7 security. Ideal for families seeking a comfortable and convenient home near the IT hub."
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "bedrooms": 2,
+    "price": 13000000,
+    "address": "Ballygunge, Kolkata",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in the posh Ballygunge area of Kolkata. This semi-furnished 1150 sq.ft. property is located in a peaceful residential area with easy access to schools, hospitals, and shopping centers. Amenities include a lift, covered parking, and 24/7 security. Ideal for small families or those seeking a refined living environment."
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "bedrooms": 1,
+    "price": 9200000,
+    "address": "Nungambakkam, Chennai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A stylish 1BHK apartment in the prime location of Nungambakkam, Chennai. This semi-furnished 950 sq.ft. property is perfect for single professionals or those who enjoy city life. Located close to commercial establishments and public transport. Amenities include a lift, dedicated parking, and 24/7 security."
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "bedrooms": 3,
+    "price": 19500000,
+    "address": "Prahlad Nagar, Ahmedabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 3BHK apartment in Prahlad Nagar, Ahmedabad. This semi-furnished 2000 sq.ft. property offers a comfortable living space with modern amenities and good connectivity. Located in a well-developed area with good connectivity. Amenities include a lift, covered parking, a swimming pool, and 24/7 security. Ideal for families seeking a modern and convenient lifestyle."
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "bedrooms": 2,
+    "price": 9800000,
+    "address": "Vaishali Nagar, Jaipur",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in Vaishali Nagar, Jaipur. This semi-furnished 1100 sq.ft. property offers a comfortable living space with easy access to schools, hospitals, and shopping malls. Amenities include a lift, covered parking, and 24/7 security. A good option for small families and working professionals."
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "bedrooms": 4,
+    "price": 45000000,
+    "address": "Marine Drive, Kochi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "An exclusive 4BHK apartment on Marine Drive, Kochi, offering breathtaking waterfront views. This fully furnished 3200 sq.ft. property boasts a luxurious living experience with high-end finishes and spacious balconies. Located in a prime location with easy access to commercial and entertainment hubs. Amenities include a lift, multiple covered parking spaces, a private terrace, a swimming pool, and 24/7 security. Ideal for those seeking a premium and luxurious lifestyle."
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "bedrooms": 1,
+    "price": 11000000,
+    "address": "Dadar, Mumbai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact and well-designed 1BHK apartment in the central location of Dadar, Mumbai. This semi-furnished 700 sq.ft. property is ideal for single professionals or couples looking for a convenient and well-connected living space. Close to major railway stations and shopping centers. Amenities include a lift, dedicated parking, and 24/7 security."
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "bedrooms": 3,
+    "price": 22000000,
+    "address": "Aundh, Pune",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious and modern 3BHK apartment in the upscale Aundh, Pune. This semi-furnished 1900 sq.ft. property offers a comfortable living space with contemporary design and good connectivity. Located close to schools, hospitals, and shopping malls. Amenities include a lift, covered parking, a gym, and 24/7 security. Ideal for families seeking a modern and convenient lifestyle."
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "bedrooms": 2,
+    "price": 14500000,
+    "address": "Saket, Delhi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in the well-established Saket, Delhi. This semi-furnished 1100 sq.ft. property offers a comfortable living space in a peaceful residential area with good social infrastructure. Amenities include a lift, covered parking, and 24/7 security. A good option for small families and working professionals."
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "bedrooms": 4,
+    "price": 50000000,
+    "address": "Sadashivanagar, Bangalore",
+    "parking_available": true,
+    "sold_status": true,
+    "description": "An elegant and spacious 4BHK house in the prestigious Sadashivanagar, Bangalore. This unfurnished 4300 sq.ft. property offers a luxurious living experience with ample space, a private garden, and modern amenities. Located in a prime residential area with excellent connectivity and proximity to high-end amenities. Sold."
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "bedrooms": 1,
+    "price": 8200000,
+    "address": "Gachibowli, Hyderabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact and modern 1BHK apartment in the rapidly developing Gachibowli, Hyderabad. This semi-furnished 850 sq.ft. property is ideal for young professionals working in the nearby IT hub and those seeking a modern lifestyle. Amenities include a lift, power backup, and dedicated parking. A great investment opportunity with high rental potential."
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "bedrooms": 3,
+    "price": 19500000,
+    "address": "Rajarhat, Kolkata",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 3BHK apartment in the developing Rajarhat area of Kolkata. This semi-furnished 2100 sq.ft. property offers a comfortable living space with modern amenities and good connectivity to the airport and IT sector. Amenities include a lift, covered parking, a swimming pool, and 24/7 security. Ideal for families looking for a modern and growing location."
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "bedrooms": 2,
+    "price": 13000000,
+    "address": "Mylapore, Chennai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in the cultural hub of Mylapore, Chennai. This semi-furnished 1150 sq.ft. property offers a comfortable living space with a blend of traditional and modern influences. Located close to temples, markets, and cultural centers. Amenities include a lift, covered parking, and 24/7 security. Ideal for those seeking a peaceful and culturally rich environment."
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "bedrooms": 4,
+    "price": 29000000,
+    "address": "Science City, Ahmedabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious and modern 4BHK apartment in the developing Science City area of Ahmedabad. This unfurnished 3100 sq.ft. property offers ample living space with contemporary design and good connectivity. Located close to educational institutions and recreational facilities. Amenities include a lift, multiple covered parking spaces, a gym, and 24/7 security. Ideal for large families seeking a modern and convenient lifestyle."
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "bedrooms": 2,
+    "price": 10200000,
+    "address": "Civil Lines, Jaipur",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in the prime Civil Lines area of Jaipur. This semi-furnished 1120 sq.ft. property offers a comfortable living space in a peaceful and well-established residential area. Located close to government offices and major city attractions. Amenities include a lift, covered parking, and 24/7 security. A good option for those seeking a central and secure location."
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "bedrooms": 3,
+    "price": 20000000,
+    "address": "Vyttila, Kochi",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious and well-designed 3BHK apartment in the transportation hub of Vyttila, Kochi. This semi-furnished 2150 sq.ft. property offers a comfortable living space with excellent connectivity to all parts of the city. Located close to major highways and commercial centers. Amenities include a lift, covered parking, a swimming pool, and 24/7 security. Ideal for families seeking convenience and connectivity."
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "bedrooms": 2,
+    "price": 30000000,
+    "address": "Chembur, Mumbai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A modern 2BHK apartment in Chembur, Mumbai. This semi-furnished 1300 sq.ft. property is located in a well-connected area with easy access to Eastern Express Highway. Amenities include a lift, covered parking, and 24/7 security. Ideal for families seeking a convenient location."
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "bedrooms": 1,
+    "price": 7200000,
+    "address": "Pimple Saudagar, Pune",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact 1BHK apartment in Pimple Saudagar, Pune. This semi-furnished 800 sq.ft. property is perfect for young professionals or first-time buyers. Located close to schools and shopping centers. Amenities include a lift, power backup, and dedicated parking."
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "bedrooms": 3,
+    "price": 48000000,
+    "address": "Hauz Khas, Delhi",
+    "parking_available": true,
+    "sold_status": true,
+    "description": "A luxurious 3BHK apartment in Hauz Khas, Delhi. This fully furnished 2900 sq.ft. property offers a spacious living room, modern kitchen, and a balcony. The complex features a swimming pool, gym, and 24/7 security. Sold."
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "bedrooms": 2,
+    "price": 16500000,
+    "address": "HSR Layout, Bangalore",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A stylish 2BHK apartment in HSR Layout, Bangalore. This semi-furnished 1200 sq.ft. property is located close to IT parks and restaurants. Amenities include a lift, covered parking, and security. Ideal for couples and young professionals."
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "bedrooms": 4,
+    "price": 39000000,
+    "address": "Banjara Hills, Hyderabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 4BHK villa in Banjara Hills, Hyderabad. This unfurnished 4000 sq.ft. property offers ample living space, a private garden, and modern amenities. Located in a gated community with a clubhouse, swimming pool, and 24/7 security. Perfect for large families seeking a luxurious lifestyle."
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "bedrooms": 1,
+    "price": 6800000,
+    "address": "Dum Dum, Kolkata",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A compact 1BHK apartment in Dum Dum, Kolkata. This semi-furnished 750 sq.ft. property is ideal for single professionals. Located close to the airport. Amenities include a lift, dedicated parking, and 24/7 security."
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "bedrooms": 3,
+    "price": 23000000,
+    "address": "RA Puram, Chennai",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "An elegant 3BHK apartment in RA Puram, Chennai. This semi-furnished 2200 sq.ft. property offers a spacious living room, modern kitchen, and balcony. The complex features a swimming pool, gym, and 24/7 security. Ideal for families."
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "bedrooms": 2,
+    "price": 9200000,
+    "address": "Navrangpura, Ahmedabad",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A well-maintained 2BHK apartment in Navrangpura, Ahmedabad. This semi-furnished 1000 sq.ft. property is located in a central area with good connectivity. Amenities include a lift, covered parking, and security."
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "bedrooms": 4,
+    "price": 30000000,
+    "address": "Raja Park, Jaipur",
+    "parking_available": true,
+    "sold_status": false,
+    "description": "A spacious 4BHK apartment in Raja Park, Jaipur. This unfurnished 3200 sq.ft. property offers ample living space and a balcony. Located in a well-developed area. Amenities include a lift, covered parking, and 24/7 security."
+  }
+]
