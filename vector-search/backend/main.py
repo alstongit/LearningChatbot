@@ -5,14 +5,17 @@ from pymongo import MongoClient
 from bson import ObjectId
 from llm_utils import qa_chain
 from fastapi.middleware.cors import CORSMiddleware
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 app = FastAPI()
 
 
-
+MONGDODB_URI = os.getenv(MONGDODB_URI)
 
 # MongoDB and LangChain setup
-client = MongoClient("mongodb+srv://alston:alston_realEstate@real-estate-cluster.9w8tavv.mongodb.net/?retryWrites=true&w=majority&appName=real-estate-cluster")
+client = MongoClient("MONGODB_URI")
 db = client["real_estate"]
 collection = db["properties"]
 

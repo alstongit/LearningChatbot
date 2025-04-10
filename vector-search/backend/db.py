@@ -4,14 +4,19 @@ from fastapi import FastAPI, Query
 from pymongo import MongoClient
 from sentence_transformers import SentenceTransformer
 import numpy as np
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 app = FastAPI()
 
 # Load the sentence transformer model (you can swap to mistral if needed later)
 model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
+MONGODB_URI = os.getenv(MONGODB_URI)
 # Connect to MongoDB (replace with your actual connection string)
-client = MongoClient("mongodb+srv://alston:alston_realEstate@real-estate-cluster.9w8tavv.mongodb.net/?retryWrites=true&w=majority&appName=real-estate-cluster")
+client = MongoClient("MONGODB_URI")
 db = client["real_estate"]
 collection = db["properties"]
 
